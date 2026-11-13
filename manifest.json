@@ -1,0 +1,92 @@
+[
+  {
+    "page": "home",
+    "file": "designs/home/home-candidate-01.png",
+    "sourceFile": "exec-78133f38-8755-4fa8-a45a-6d0dfe010897.png",
+    "sha256": "a1f863fdbac7b9e5998a42fc8504e8d679c18761d4c8f91f764f99d48724d3ce"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/home-candidate-02.png",
+    "sourceFile": "exec-b3ac4285-a782-4a9b-8dc9-3be1c9eeba13.png",
+    "sha256": "8822e7ff120c3557fb15541e04985894c1206125da339e56f2e2004c5c3faefb"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/home-candidate-03.png",
+    "sourceFile": "exec-d5bd19a4-f24b-468c-8bbb-7bcc33ea9820.png",
+    "sha256": "e7e3bb0e85f14d37dc00f101c4b391385dd08d74c7798fb97ab0d8d915f61fa3"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/home-candidate-04.png",
+    "sourceFile": "exec-d87bcf65-9aa8-4669-ac17-1e57d27184e7.png",
+    "sha256": "e5bff23c079102afd4e6d1534116dbc6068d58d64f9b6616b30b1b4967f94b62"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/home-background-glass-white-cards.png",
+    "sourceFile": "exec-c4cb2677-5f98-424c-a319-8f321df181bf.png",
+    "sha256": "19b7f3e4677ddc197880da9941d60c6eb650d684de5956e5cde5e40194620e74"
+  },
+  {
+    "page": "companies",
+    "file": "designs/companies/companies-initial.png",
+    "sourceFile": "exec-e684341d-cef6-465d-9e22-2382e7ca8aab.png",
+    "sha256": "7038b0774c34cb11ad4f3b3c581a9ee94a00aec4097ffd3e1c33bcfdef9d19ac"
+  },
+  {
+    "page": "companies",
+    "file": "designs/companies/companies-too-faint.png",
+    "sourceFile": "exec-ebfded1b-f7a1-44c0-bd36-c0827390a09f.png",
+    "sha256": "4f180aab313c54adc4e5007b31b9f8ecc31aaf501416e32276f7ff1ad62bad8c"
+  },
+  {
+    "page": "companies",
+    "file": "designs/companies/companies-stronger-glass.png",
+    "sourceFile": "exec-3e284025-11bc-4c30-82d3-17f9d5c2c2dc.png",
+    "sha256": "2ce7cceddbe9cbde4e63202188e5645a4d90287ccd77f08af7fb3ae43756aa06"
+  },
+  {
+    "page": "companies",
+    "file": "designs/companies/companies-latest.png",
+    "sourceFile": "exec-9d5bb708-126e-44b1-8e78-7938f9b2bee3.png",
+    "sha256": "69b6305fca43f94bfe1a41f1cc08b3157ab75d6fd736c35fbfdd35a8fa6be24a"
+  },
+  {
+    "page": "company-detail",
+    "file": "designs/company-detail/company-detail-initial.png",
+    "sourceFile": "exec-d615f44d-e0f6-4acd-b3f4-e10c6f237170.png",
+    "sha256": "8480409f84b4e12a85f9cad5dfc73ad30876a9d56ad7ed678eac9064debc08bb"
+  },
+  {
+    "page": "company-detail",
+    "file": "designs/company-detail/company-detail-subtle-glass.png",
+    "sourceFile": "exec-9e19439d-5eb1-4250-afde-ba15f00d8e65.png",
+    "sha256": "69cb1819db6dce3547326e9d0919fe16a9791a46b2fedb82a4efb66bce67fff0"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/tongyue-figma-home-v1.png",
+    "sourceFile": "tongyue-figma-home-v1.png",
+    "sha256": "f604fbb84d0d105114e99e3185c0af71e2a40cbf8701fef223a296233d5bacb7"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/tongyue-figma-home-v2.png",
+    "sourceFile": "tongyue-figma-home-v2.png",
+    "sha256": "e1eef3882e88236fdd31a8e5ba5c4f271295941079d21eebc2f9bd1d56acf1b4"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/tongyue-figma-home-final.png",
+    "sourceFile": "tongyue-figma-home-final.png",
+    "sha256": "c1f97c66d9329524522c2913e58b49021e62e2d692003bf95ef7938c2f3073d6"
+  },
+  {
+    "page": "home",
+    "file": "designs/home/tongyue-figma-subtle-glass.png",
+    "sourceFile": "tongyue-figma-subtle-glass.png",
+    "sha256": "549372e110de27510722d3362e4db52bce3c8494f17e37a7d7ac429dd03dab86"
+  }
+]
