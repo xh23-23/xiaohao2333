@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const read=name=>fs.readFileSync(new URL('./src/'+name,import.meta.url),'utf8');
+let html=read('shell.html').replace('<title>通约 · 已选 UI 设计预览</title>','<title>通约</title>');
+for(const name of ['preview.css','copy-pages.css'])html=html.replace(`<link rel="stylesheet" href="${name}">`,()=>`<style>${read(name)}</style>`);
+html=html.replace('<script src="copy-pages.js"></script>',()=>`<script>${read('copy-pages.js')}</script>`);
+const app=read('app.js').replace(/^const manifest = await fetch.*$/m,()=>`const manifest = ${read('selected.json')};`);
+html=html.replace('<script type="module" src="app.js"></script>',()=>`<script type="module">${app}</script>`);
+html=html.replace('</body>',()=>`<script>${read('product.js')}</script><style>${read('mobile.css')}</style></body>`);
+fs.writeFileSync(new URL('./index.html',import.meta.url),html);
+console.log('Built standalone mobile app.');

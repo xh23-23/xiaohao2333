@@ -1,0 +1,226 @@
+[
+  {
+    "id": "H03",
+    "group": "首页",
+    "title": "淡蓝紫背景与白卡",
+    "file": "images/H03.png",
+    "note": "历史候选，尚未定稿"
+  },
+  {
+    "id": "L04",
+    "group": "企业列表",
+    "title": "最近调整版",
+    "file": "images/L04.png",
+    "note": "历史候选，尚未定稿"
+  },
+  {
+    "id": "D02",
+    "group": "企业详情",
+    "title": "背景减淡版",
+    "file": "images/D02.png",
+    "note": "历史候选，尚未定稿"
+  },
+  {
+    "id": "P01",
+    "group": "后续页面",
+    "title": "企业对比—统一白底",
+    "file": "images/P01.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P02",
+    "group": "后续页面",
+    "title": "基金资金使用—白卡",
+    "file": "images/P02.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P03",
+    "group": "后续页面",
+    "title": "基金资金使用—顶部轻玻璃",
+    "file": "images/P03.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P04",
+    "group": "后续页面",
+    "title": "基金募资进度",
+    "file": "images/P04.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P05",
+    "group": "后续页面",
+    "title": "我的报告—空状态",
+    "file": "images/P05.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P06",
+    "group": "后续页面",
+    "title": "工作台",
+    "file": "images/P06.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P07",
+    "group": "后续页面",
+    "title": "设置面板",
+    "file": "images/P07.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P08",
+    "group": "后续页面",
+    "title": "数据覆盖",
+    "file": "images/P08.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P09",
+    "group": "后续页面",
+    "title": "企业动态",
+    "file": "images/P09.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P10",
+    "group": "后续页面",
+    "title": "历史记录",
+    "file": "images/P10.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P11",
+    "group": "后续页面",
+    "title": "对话页面",
+    "file": "images/P11.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "P12",
+    "group": "后续页面",
+    "title": "企业筛选面板",
+    "file": "images/P12.png",
+    "note": "候选效果稿"
+  },
+  {
+    "id": "S01",
+    "group": "补充页面与状态",
+    "title": "企业资料—基础与产品",
+    "file": "images/S01.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S02",
+    "group": "补充页面与状态",
+    "title": "企业资料—融资",
+    "file": "images/S02.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S03",
+    "group": "补充页面与状态",
+    "title": "企业资料—知识产权",
+    "file": "images/S03.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S04",
+    "group": "补充页面与状态",
+    "title": "企业资料—客户",
+    "file": "images/S04.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S05",
+    "group": "补充页面与状态",
+    "title": "企业资料—招投标",
+    "file": "images/S05.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S06",
+    "group": "补充页面与状态",
+    "title": "企业资料—人员",
+    "file": "images/S06.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S07",
+    "group": "补充页面与状态",
+    "title": "企业资料—经营",
+    "file": "images/S07.png",
+    "note": "原站已核对"
+  },
+  {
+    "id": "S08",
+    "group": "补充页面与状态",
+    "title": "企业跟进",
+    "file": "images/S08.png",
+    "note": "原站已核对，研究前空状态"
+  },
+  {
+    "id": "S09",
+    "group": "补充页面与状态",
+    "title": "项目资金明细",
+    "file": "images/S09.png",
+    "note": "原站已核对，远川机器人演示账目"
+  },
+  {
+    "id": "S10",
+    "group": "补充页面与状态",
+    "title": "报告生成确认",
+    "file": "images/S10.png",
+    "note": "原站已核对，默认选项演示，背景字段已修正"
+  },
+  {
+    "id": "S11",
+    "group": "补充页面与状态",
+    "title": "报告列表有内容",
+    "file": "images/S11.png",
+    "note": "原站生成的演示报告"
+  },
+  {
+    "id": "S12",
+    "group": "补充页面与状态",
+    "title": "独立报告详情",
+    "file": "images/S12.png",
+    "note": "原站已核对，长资料改为可展开结构"
+  },
+  {
+    "id": "S13",
+    "group": "补充页面与状态",
+    "title": "我的关注空状态",
+    "file": "images/S13.png",
+    "note": "基于原站零关注状态的入口优化"
+  },
+  {
+    "id": "S14",
+    "group": "补充页面与状态",
+    "title": "企业选择对比",
+    "file": "images/S14.png",
+    "note": "基于原站多选流程的操作优化"
+  },
+  {
+    "id": "S15",
+    "group": "补充页面与状态",
+    "title": "平台AI连接状态",
+    "file": "images/S15.png",
+    "note": "建议新增：连接中、失败、成功"
+  },
+  {
+    "id": "S16",
+    "group": "补充页面与状态",
+    "title": "报告生成状态",
+    "file": "images/S16.png",
+    "note": "建议新增：生成中、失败、完成"
+  },
+  {
+    "id": "S17",
+    "group": "补充页面与状态",
+    "title": "查询与资料导入状态",
+    "file": "images/S17.png",
+    "note": "建议新增：无结果、加载中、加载失败、CSV导入失败"
+  }
+]

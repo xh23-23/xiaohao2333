@@ -1,0 +1,43 @@
+/* Use the real browser viewport; simulated device chrome is omitted. */
+.product-mode .status-bar,.product-mode .home-indicator{display:none!important}
+.product-mode .phone{scrollbar-width:none;overscroll-behavior-y:contain;padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom)}
+.product-mode .phone::-webkit-scrollbar{display:none}
+.product-mode .copy-screen,.product-mode .fund-screen{min-height:100%;padding-top:0}
+.product-mode .app-header{padding-top:12px;padding-bottom:12px;min-height:50px}
+.product-mode .ui-main-nav,.product-mode .fund-nav{padding-bottom:max(8px,env(safe-area-inset-bottom))}
+.product-mode .ui-state-grid .copy-screen{min-height:100dvh}
+.product-mode .phone:has(.ui-home-grid) .copy-screen{height:100%;min-height:100%;}
+.product-mode .phone:has(.ui-home-grid) .ui-content{display:flex;flex-direction:column;justify-content:space-between;gap:6px;min-height:0;padding-bottom:5px}
+.product-mode .phone:has(.ui-home-grid) .ui-hero{margin:0 5px 3px}
+.product-mode .phone:has(.ui-home-grid) .ui-hero h1{font-size:clamp(20px,5.5vw,24px)}
+.product-mode .phone:has(.ui-home-grid) .ui-hero p{font-size:12px;margin:2px 0 0}
+.product-mode .phone:has(.ui-home-grid) .ui-search{margin:0;padding:7px 11px}
+.product-mode .phone:has(.ui-home-grid) .ui-search input{font-size:14px}
+.product-mode .ui-home-grid{margin:0;gap:9px}
+.product-mode .ui-home-entry{padding:10px 14px}
+.product-mode .ui-home-entry svg{width:25px;height:25px;margin-bottom:3px}
+.product-mode .ui-home-entry strong{font-size:17px}
+.product-mode .ui-home-entry span{font-size:12px}
+.product-mode .ui-fund-entry{margin:0;padding:7px 15px}
+.product-mode .ui-fund-entry strong{font-size:15px}
+.product-mode .ui-fund-entry small{font-size:12px}
+.product-mode .ui-shortcuts{margin:0;padding:10px 5px}
+.product-mode .ui-shortcuts a{font-size:12px}
+.product-mode .ui-shortcuts svg{width:20px;height:20px}
+.product-mode .phone:has(.ui-home-grid) .ui-section-heading{margin:0 3px}
+.product-mode .phone:has(.ui-home-grid) .ui-section-heading h2{font-size:16px}
+.product-mode .ui-content>.ui-empty{padding:0 8px}
+.product-mode .ui-content>.ui-empty .ui-empty-icon{margin:0}
+.product-mode .ui-content>.ui-empty .ui-empty-icon svg{width:24px;height:24px}
+.product-mode .ui-content>.ui-empty h2{font-size:14px;margin:2px 0 0}
+.product-mode .ui-content>.ui-empty p{font-size:12px;margin:0}
+.product-mode .ui-content>.ui-empty .ui-button{margin-top:5px;min-height:28px;padding:3px 14px;font-size:12px}
+.product-mode .ui-directions{margin:0;gap:7px}
+.product-mode .ui-directions .ui-tag{font-size:12px;padding:2px 10px}
+.product-mode .ui-composer{padding:5px 8px}
+.product-mode .ui-composer label{font-size:13px}
+.product-mode .ui-composer form{margin-top:3px;padding:3px 5px}
+.product-mode .ui-main-nav{margin:0;padding-top:5px}
+.product-mode .ui-main-nav svg{height:23px;width:23px}
+@media(max-height:700px) and (min-height:580px){.product-mode .phone:has(.ui-home-grid) .ui-content{gap:3px}.product-mode .phone:has(.ui-home-grid) .app-header{padding:7px 2px;min-height:44px}.product-mode .ui-home-entry{padding:7px 13px}.product-mode .ui-home-entry svg{width:21px;height:21px}.product-mode .ui-shortcuts{padding:7px 5px}.product-mode .ui-content>.ui-empty .ui-empty-icon{display:none}.product-mode .ui-main-nav{padding-top:3px}.product-mode .ui-home-entry strong{font-size:16px}}
+@media(max-height:579px){.product-mode .phone:has(.ui-home-grid) .copy-screen{height:auto;min-height:100%}.product-mode .phone:has(.ui-home-grid) .ui-content{gap:8px}}
